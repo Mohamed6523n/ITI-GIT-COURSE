@@ -1,0 +1,15 @@
+
+body{
+    background-color:violet ;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    color: cadetblue;
+    text-align: center;
+    text-decoration: double;
+}
+
+h3{
+    text-align: center;
+    color: white;
+}
